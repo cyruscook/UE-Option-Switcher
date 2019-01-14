@@ -3,7 +3,7 @@ A more user friendly alternative to dropdown menus written entirely in Blueprint
 
 Named an option switcher because I've never seen any other name for it, and it reminds me of widget switchers.
 
-![Example Gif](https://i.imgur.com/Hh7WgiG.gifv)
+![Example Gif](https://i.imgur.com/Hh7WgiG.gif)
 
 ## How to use
 Place both the arrow_icon.uasset and OptionSwitcher.uasset anywhere in your projects content directory. You will then be able to place the option switcher widget into any widget blueprint by navigating to the "User Created" section of the Palette.
