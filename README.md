@@ -1,9 +1,9 @@
 # UE-Option-Switcher
 A more user friendly alternative to dropdown menus written entirely in Blueprints. It is inspired by what games like Fortnite use, except has expanded on their functionality.
 
-Named an option switcher because I've never seen any other name for it, and it reminds me of widget switchers.
+Named an option switcher because I've never seen any other name for it, and it uses widget switchers.
 
-<img src="https://i.imgur.com/Hh7WgiG.gif" preload></img>
+[![Youtube Example](https://img.youtube.com/vi/yEE6t263tys/maxresdefault.jpg)](https://www.youtube.com/watch?v=yEE6t263tys)
 
 ## How to use
 Place both the arrow_icon.uasset and OptionSwitcher.uasset anywhere in your projects content directory. You will then be able to place the option switcher widget into any widget blueprint by navigating to the "User Created" section of the Palette.
