@@ -3,6 +3,8 @@ A more user friendly alternative to dropdown menus written entirely in Blueprint
 
 Named an option switcher because I've never seen any other name for it, and it uses widget switchers.
 
+Click on the image below to see a video of it in action.
+
 [![Youtube Example](https://img.youtube.com/vi/yEE6t263tys/maxresdefault.jpg)](https://www.youtube.com/watch?v=yEE6t263tys)
 
 ## How to use
